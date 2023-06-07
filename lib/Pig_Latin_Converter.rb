@@ -1,4 +1,3 @@
-
 class PigLatinConverter
 
   def self.convert(string)
