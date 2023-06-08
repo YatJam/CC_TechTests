@@ -30,4 +30,4 @@ class PigLatinConverter
 
 end
 
-puts PigLatinConverter.convert("James")
+puts PigLatinConverter.convert("Block")
